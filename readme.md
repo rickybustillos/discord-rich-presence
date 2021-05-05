@@ -10,8 +10,6 @@ O script está programado em **JavaScript** e para fazer funcioná-lo é necess�
 	- Essa dependência permite que a instância do script reinicie automaticamente quando detectar alguma mudança no arquivo do script em execução.
 - Aplicação existente em discord.com/developers/applications
 
-Foi utilizada a biblioteca Discord.js para o desenvolvimento do bot.
-
 ## Instalação
 ### Na pasta do projeto e instale as dependências:
 A segunda opção (nodemon) é *opcional*
@@ -26,15 +24,12 @@ ou
 ## Configuração da Aplicação
 
 O resultado final do meu script fica da seguinte forma:
-![Jogando Adobe | Descrição: Adobe Photoshop | Tempo: 02:39 decorrido(s)](https://lh3.google.com/u/0/d/1AdBSc55WNBOd1Kd6DItj8-3PJteSEEa_=w1600-h798-iv1)
+![Jogando Adobe | Descrição: Adobe Photoshop | Tempo: 02:39 decorrido(s)](https://i.imgur.com/qM3D9Ko.png)
 
 1. Acessar discord.com/developers/applications
 2. Selecionar sua aplicação (no meu caso Adobe)
-![Aplicação Adobe](https://lh3.google.com/u/0/d/1JtdkhCtcpkjHYUKjNQWprK5pDxYpivRw=w1204-h798-iv1)
 3. Abrir página "Rich Presence"
-![Botão Rich Presence no menu lateral](https://lh3.google.com/u/0/d/1odHn4yCatsMz_rT7KO6T0xHzMkymPcbh=w1204-h798-iv2)
-4. Adicionar seus próprios Assets ou imagens que você quer que apareça no discord
-![enter image description here](https://lh3.google.com/u/0/d/10weCZMWMQABUyLy3j3CwxiS01JyzC3pO=w1204-h798-iv1)
+4. Adicionar suas próprias imagens que você quer que apareça no discord
 
 O mesmo nome da imagem que você salvar nesta página você deverá escrever nos atributos
 
