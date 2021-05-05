@@ -24,6 +24,7 @@ ou
 ## Configuração da Aplicação
 
 O resultado final do meu script fica da seguinte forma:
+
 ![Jogando Adobe | Descrição: Adobe Photoshop | Tempo: 02:39 decorrido(s)](https://i.imgur.com/qM3D9Ko.png)
 
 1. Acessar discord.com/developers/applications
